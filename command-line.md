@@ -1,8 +1,5 @@
 <!doctype html>
 <html lang="en">
-  <Head>
-    <title>Command-line</title>
-  </head>
 <body>
 <h1>The command line</h1>
 The command line (a.k.a terminal, shell, prompt) is another way of interacting with your computer. Instead of working with windows, toolbars, menus, and buttons, you're just interacting with text.
