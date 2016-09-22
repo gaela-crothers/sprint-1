@@ -61,4 +61,11 @@ You perform actions by writing commands, and you get your information back from 
     <td>exit</td>
     <td>Close the terminal</td>
   </tr>
+
+  <tr>
+    <td>11</td>
+    <td>clear</td>
+    <td>Clear the terminal screen</td>
+  </tr>
+
  </table>
