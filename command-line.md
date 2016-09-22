@@ -1,6 +1,3 @@
-<!doctype html>
-<html lang="en">
-<body>
 <h1>The command line</h1>
 The command line (a.k.a terminal, shell, prompt) is another way of interacting with your computer. Instead of working with windows, toolbars, menus, and buttons, you're just interacting with text.
 <br>
@@ -65,5 +62,3 @@ You perform actions by writing commands, and you get your information back from 
     <td>Close the terminal</td>
   </tr>
  </table>
-</body>
-</html>
